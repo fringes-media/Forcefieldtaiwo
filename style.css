@@ -1,0 +1,38 @@
+body {
+     font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background: #f5faff;
+
+    background-image: url('20250829_185239.png');
+    background-size:cover;
+    display:block;
+    background-repeat:no-repeat;
+    background-position: bottom center;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 5px;
+    width: 80px;
+  }
+  
+  #forceOutput {
+    font-size: 18px;
+    font-weight: bold;
+    color: darkblue;
+    margin-top: -15px;
+    margin-bottom: -10px;
+  }
+  
+  canvas {
+    border: 1px solid #333;
+    margin-top: 15px;
+    background: white;
+  }
+  
